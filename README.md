@@ -12,6 +12,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -20,10 +21,12 @@ My LeetCode solutions
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
