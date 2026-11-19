@@ -18,11 +18,13 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0283-move-zeroes](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0283-move-zeroes/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/1876-substrings-of-size-three-with-distinct-characters/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Sliding Window
@@ -46,6 +48,7 @@ My LeetCode solutions
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0844-backspace-string-compare](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
@@ -54,5 +57,6 @@ My LeetCode solutions
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/Raghav25093000/LeetCode-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 <!---LeetCode Topics End-->
